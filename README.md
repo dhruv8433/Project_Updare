@@ -3,14 +3,14 @@
  
  ->Drawer Page Completed in ui
  _____________________________________
-  Pg 2
-  Pg 5
-  Pg 9
-  Pg 10
-  Pg 13
-  Pg 19
-  Pg 20
-  Pg 27
+  Page 2
+  Page 5
+  Page 9
+  Page 10
+  Page 13
+  Page 19
+  Page 20
+  Page 27
  
  
 
@@ -27,6 +27,7 @@ Pages in ui
 -------------------------------------------------
 page 1
 page 3
+page 4
 page 7
 page 12
 page 15
@@ -38,4 +39,3 @@ page 22
 page 24
 page 25
 page 26
-page example
