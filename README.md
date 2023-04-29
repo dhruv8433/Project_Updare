@@ -1,16 +1,16 @@
 # Project_Updare
 #Ranjani
  
- ->Drawer Page Completed in ui
- _____________________________________
-  Page 2
-  Page 5
-  Page 9
-  Page 10
-  Page 13
-  Page 19
-  Page 20
-  Page 27
+-> Drawer Pages in ui
+_____________________________________
+Page 2
+Page 5
+Page 9
+Page 10
+Page 13
+Page 19
+Page 20
+Page 27
  
  
 
@@ -23,8 +23,8 @@
 6. Contact Done
 7. Profile Navigation Done
 
-Pages in ui
--------------------------------------------------
+-> Pages in ui
+_____________________________________
 page 1
 page 3
 page 4
