@@ -47,16 +47,16 @@ page 26
 -> Bugs that we have to fix
 //************************************************************************************//
 ✍️HOME PAGE
-   • HR Tag (color:white,use STEPPER for IMG progress)
-   • IMG (border-radious:10px)
+   ✅ HR Tag (color:white,use STEPPER for IMG progress)
+   ✅ IMG (border-radious:10px)
    • INPUT TAG (grid)
    • FONT-FAMILY :ROBOTO 
      
    
-         📌 CREATIVE CATEGORY 
+        ✅  CREATIVE CATEGORY 
            -HEAD-TITLE missing in Api Img
            
-         📌 HOME_SERVICE / LAUNDRY SERVICE/  PLUMBING SERVICE/ VEHICLE SERVICE
+         ✅ HOME_SERVICE / LAUNDRY SERVICE/  PLUMBING SERVICE/ VEHICLE SERVICE
            -BORDER-NONE IN IMG PORTION
            
          📌 OUR VALUABLE SERVICE
@@ -67,8 +67,8 @@ page 26
             
   
  ✍️ ABOUT PAGE
-     • BACKGROUND COLOR:WHITE IS  MISSING
-     • <p> AND <LIST> TAGS ,BOTH ARE HAVING IN SAME COLOR (list color is perfect)
+     ✅ BACKGROUND COLOR:WHITE IS  MISSING
+     ✅ <p> AND <LIST> TAGS ,BOTH ARE HAVING IN SAME COLOR (list color is perfect)
      
  
             
