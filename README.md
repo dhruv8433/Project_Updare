@@ -15,8 +15,22 @@ Page 20
 Page 23
 Page 27
  
- 
-
+ _________________________________________
+ 📝 DARK MODE 
+   ° CREATIVE CATEGORY
+       📌RESPONSE.NAME IS NOT DISPLAY
+   °  NAV -CREATIVE CAREGORY
+       📌 SPACE IN IMAG BOX (BOTTOM)
+   °  OTP BACKGROUND COLOR
+   °  http://localhost:3000/providers/services/payment(ADDERSS AND MAP IS NOT IN PERFECT LINE)
+      
+      
+ 📝 RESPONSIVE
+      -CONTACT FORM (SHOULD BE TEXT COLOR bLACK)
+      -PROVIDER PAGE/SERVICE PROVIDER(IS NOT PERFECT)(OVERLAP)
+      -NAVIGATION (BURGER MENU)
+      
+      
 #Dhruv
 1. Api section Done...
 2. Home Page Done // responsive incompleted
