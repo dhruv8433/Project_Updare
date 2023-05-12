@@ -18,10 +18,11 @@ Page 27
  _________________________________________
  📝 DARK MODE 
    ° CREATIVE CATEGORY
-       📌RESPONSE.NAME IS NOT DISPLAY
+       ✅ RESPONSE.NAME IS NOT DISPLAY
    °  NAV -CREATIVE CAREGORY
-       📌 SPACE IN IMAG BOX (BOTTOM)
-   °  OTP BACKGROUND COLOR
+       ✅ SPACE IN IMAG BOX (BOTTOM)
+   ✅ OTP BACKGROUND COLOR
+   ✅ Phone No Width Perfect
    °  http://localhost:3000/providers/services/payment(ADDERSS AND MAP IS NOT IN PERFECT LINE)
       
       
