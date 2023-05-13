@@ -15,7 +15,7 @@ Page 20
 Page 23
 Page 27
  
- _________________________________________
+_________________________________________
  📝 DARK MODE 
    ° CREATIVE CATEGORY
        ✅ RESPONSE.NAME IS NOT DISPLAY
@@ -25,13 +25,20 @@ Page 27
    ✅ Phone No Width Perfect
    °  http://localhost:3000/providers/services/payment(ADDERSS AND MAP IS NOT IN PERFECT LINE)
       
-      
  📝 RESPONSIVE
       -CONTACT FORM (SHOULD BE TEXT COLOR bLACK)
       -PROVIDER PAGE/SERVICE PROVIDER(IS NOT PERFECT)(OVERLAP)
       -NAVIGATION (BURGER MENU)
       
-      
+_________________________________________
+
+New functionality
+✅ Navigation Login with avtar
+📌 Data Fetching in Drawer --incompleted
+    Data Found in Console 
+📌 Few Changes in Profile Section 
+_________________________________________
+ 
 #Dhruv
 1. Api section Done...
 2. Home Page Done // responsive incompleted
@@ -58,32 +65,5 @@ page 24
 page 25
 page 26
 
-
--> Bugs that we have to fix
-//************************************************************************************//
-✍️HOME PAGE
-   ✅ HR Tag (color:white,use STEPPER for IMG progress)
-   ✅ IMG (border-radious:10px)
-   • INPUT TAG (grid)
-   • FONT-FAMILY :ROBOTO 
-     
-   
-        ✅  CREATIVE CATEGORY 
-           -HEAD-TITLE missing in Api Img
-           
-         ✅ HOME_SERVICE / LAUNDRY SERVICE/  PLUMBING SERVICE/ VEHICLE SERVICE
-           -BORDER-NONE IN IMG PORTION
-           
-         ✅ OUR VALUABLE SERVICE
-            -(BACKGROUND-COLOR  NONE)
-            -THIS SECTION IS NOT A PERFECT ACTUALLY
-            
-            
-            
-  
- ✍️ ABOUT PAGE
-     ✅ BACKGROUND COLOR:WHITE IS  MISSING
-     ✅ <p> AND <LIST> TAGS ,BOTH ARE HAVING IN SAME COLOR (list color is perfect)
-     
  
             
