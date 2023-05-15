@@ -64,6 +64,3 @@ page 22
 page 24
 page 25
 page 26
-
- 
-            
