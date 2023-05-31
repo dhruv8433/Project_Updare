@@ -1,5 +1,5 @@
 # Project_Updare
-#Rni
+# Rni
  
 -> Drawer Pages in ui
 _____________________________________
@@ -40,7 +40,7 @@ New functionality
 ✅ profile dynamic user can change name email ...
 _________________________________________
  
-#Dhruv
+# Dhruv
 1. Api section Done...
 2. Home Page Done // responsive incompleted
 3. About Page Done 
