@@ -1,5 +1,5 @@
 # Project_Updare
-#Ranjani
+#Rni
  
 -> Drawer Pages in ui
 _____________________________________
@@ -16,7 +16,7 @@ Page 23
 Page 27
  
 _________________________________________
- 📝 DARK MODE 
+ ✅ DARK MODE 
    ° CREATIVE CATEGORY
        ✅ RESPONSE.NAME IS NOT DISPLAY
    °  NAV -CREATIVE CAREGORY
@@ -25,7 +25,7 @@ _________________________________________
    ✅ Phone No Width Perfect
    °  http://localhost:3000/providers/services/payment(ADDERSS AND MAP IS NOT IN PERFECT LINE)
       
- 📝 RESPONSIVE
+ ✅ RESPONSIVE
       -CONTACT FORM (SHOULD BE TEXT COLOR bLACK)
       -PROVIDER PAGE/SERVICE PROVIDER(IS NOT PERFECT)(OVERLAP)
       -NAVIGATION (BURGER MENU)
@@ -36,7 +36,8 @@ New functionality
 ✅ Navigation Login with avtar
 📌 Data Fetching in Drawer --incompleted
     Data Found in Console 
-📌 Few Changes in Profile Section 
+✅ Few Changes in Profile Section 
+✅ profile dynamic user can change name email ...
 _________________________________________
  
 #Dhruv
