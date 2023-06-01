@@ -5,6 +5,7 @@
     #✍️ HOMEPAGE
        FOOTER INPUT TAG IN DARK MODE(TEXT-COLOR)
        PROVIDER SERVICE HEADING ,6 image (FONT SIZE)[SMALL]
+       SKELETON
   ✅#✍️ ABOUT US
         PERFECT
   ✅#✍️ CATEGORY
@@ -19,6 +20,9 @@
          NAVLINK
     #✍️  NAVIGATION
          BY DEFAULT HOME UNDERLINE
+         
+    #✍️ PROFILE 
+        -logout not working
     
     
 
