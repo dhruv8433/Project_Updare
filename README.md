@@ -17,8 +17,7 @@
         ✔️HEADING 
         ,SERACH AND DROP DOWN MENUS ARE MISSING
        ✔️ BOOKMARK IS MISSING
-        SPECIFIC PROVIDER LINK IS MISSING(HOME/PROVIDER/WORLD CLEAN PVT LTD)
-    #✍️ FOOTER 
+   #✍️ FOOTER 
          NAVLINK
     #✍️  NAVIGATION
          BY DEFAULT HOME UNDERLINE
@@ -27,4 +26,8 @@
         -logout not working
     
     Hello
+    
+   ### everything is dynamic
+        ✔️ SPECIFIC PROVIDER LINK IS MISSING(HOME/PROVIDER/WORLD CLEAN PVT LTD) 
+    
 
