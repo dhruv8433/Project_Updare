@@ -38,6 +38,9 @@ New functionality
     Data Found in Console 
 ✅ Few Changes in Profile Section 
 ✅ profile dynamic user can change name email ...
+✅ Custom Drawer Complete
+✅ User is able to logged in
+✅ Adding Some More Funcatilitys
 _________________________________________
  
 # Dhruv
