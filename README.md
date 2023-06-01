@@ -29,5 +29,7 @@
     
    ### everything is dynamic
         ✔️ SPECIFIC PROVIDER LINK IS MISSING(HOME/PROVIDER/WORLD CLEAN PVT LTD) 
+        ✍️ Payment
+            📌 Required Payment Api key for integration 
     
 
