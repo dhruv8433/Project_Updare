@@ -23,13 +23,12 @@
          BY DEFAULT HOME UNDERLINE
          
     #✍️ PROFILE 
-        -logout not working
-    
-    Hello
+        -logout working cancle button not working
+  
     
    ### everything is dynamic
         ✔️ SPECIFIC PROVIDER LINK IS MISSING(HOME/PROVIDER/WORLD CLEAN PVT LTD) 
         ✍️ Payment
-            📌 Required Payment Api key for integration 
+            ✔️ Razorpay Required Payment Api key for integration 
     
 
