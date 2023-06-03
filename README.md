@@ -23,8 +23,12 @@
          BY DEFAULT HOME UNDERLINE
          
     #✍️ PROFILE 
-        -logout working cancle button not working
-  
+        -logout working cancle button not working (Popup Not gone back Home)
+        - Bookmark Card Responsive
+        - Everything Dynamic
+        
+        
+  ✍️ Services Responsive
     
    ### everything is dynamic
         ✔️ SPECIFIC PROVIDER LINK IS MISSING(HOME/PROVIDER/WORLD CLEAN PVT LTD) 
