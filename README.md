@@ -24,8 +24,8 @@
          
     #✍️ PROFILE 
         -logout working cancle button not working (Popup Not gone back Home)
-        - Bookmark Card Responsive
-        - Everything Dynamic
+        - Bookmark Card Responsive 
+        - Everything Dynamic (✔️50% Done) 
         
         
   ✍️ Services Responsive
