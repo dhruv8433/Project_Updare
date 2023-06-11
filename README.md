@@ -1,5 +1,5 @@
 # final eDemmand
-
+<!-- 
     BUGS*
     
     #✍️ HOMEPAGE
@@ -33,6 +33,12 @@
    ### everything is dynamic
         ✔️ SPECIFIC PROVIDER LINK IS MISSING(HOME/PROVIDER/WORLD CLEAN PVT LTD) 
         ✍️ Payment
-            ✔️ Razorpay Required Payment Api key for integration 
+            ✔️ Razorpay Required Payment Api key for integration  -->
+            
+# Some New Improvement
+    1. Designing 
+    2. API send request to add to cart
+    3. Booking Section Dynamic
+    
     
 
