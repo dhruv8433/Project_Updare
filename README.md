@@ -36,9 +36,9 @@
             ✔️ Razorpay Required Payment Api key for integration  -->
             
 # Some New Improvement
-    ✅ 1. Designing 
+     ✔️1. Designing 
        2. API send request to add to cart
-       3. Booking Section Dynamic(90%)
+     ✔️3. Booking Section Dynamic(90%)
     
     
 
